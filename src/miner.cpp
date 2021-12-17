@@ -398,7 +398,7 @@ CBlock* CreateNewBlock(CReserveKey& reservekey, bool fProofOfStake, int64_t* pFe
                     //
                     CBitcoinAddress devopaddress;
                     if (Params().NetworkID() == CChainParams::MAIN) {
-                        devopaddress = CBitcoinAddress("PTUzfmVxBk6eZFa3J3JJeCyru8oCbZJuPx");
+                        devopaddress = CBitcoinAddress("FEvdm6j4tp7LDpfMVQF4oq2xuDxxf4kxh7");
                     } else if (Params().NetworkID() == CChainParams::TESTNET) {
                         devopaddress = CBitcoinAddress(""); // Input DevOps for Testnet
                     } else if (Params().NetworkID() == CChainParams::REGTEST) {
