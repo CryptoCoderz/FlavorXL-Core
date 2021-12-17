@@ -7,7 +7,7 @@ What is the FlavorXL [FXL] Blockchain?
 -----------------------------------------
 
 ### Overview
-FlavorXL is a blockchain project with the goal of creating a blockchain for the student, one where your degrees are stored on the blockchain and can be validated by employers by the pubkey that sent you the degree.
+FlavorXL is a blockchain project with the goal of creating a blockchain for audio and radio purposes.
 
 ### Blockchain Technology
 The FlavorXL [FXL] Blockchain is an experimental smart contract platform that enables 
