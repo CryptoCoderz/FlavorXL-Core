@@ -1,0 +1,9 @@
+Building FlavorXL
+
+See doc/readme-qt.rst for instructions on building FlavorXL QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FlavorXL.
+
+See doc/build-*.txt for instructions on building FlavorXLd,
+the intended-for-services, no-graphical-interface, reference
+implementation of FlavorXL.
