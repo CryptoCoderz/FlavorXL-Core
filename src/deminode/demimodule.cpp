@@ -5,6 +5,9 @@
 #include "demimodule.h"
 #include "../util.h"
 
+#include <boost/filesystem/fstream.hpp>
+
+
 bool fDemiFound = false;
 
 boost::filesystem::path GetDemiConfigFile()
