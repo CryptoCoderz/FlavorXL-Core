@@ -1,7 +1,7 @@
 FlavorXL [FXL] 2021
 ===========================================================================================
 
-http://flavorxl.com/
+http://flavorxl.chainpages.xyz/
 
 What is the FlavorXL [FXL] Blockchain?
 -----------------------------------------
